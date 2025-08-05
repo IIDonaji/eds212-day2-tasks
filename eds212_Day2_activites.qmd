@@ -1,4 +1,6 @@
 ---
+
+---
 title: "Day2 Section"
 format: html
 editor: visual
@@ -6,7 +8,7 @@ editor: visual
 
 ## Derivatives in R
 
-# Finding derivatives using R. 
+# Finding derivatives using R.
 
 # f.
 
@@ -21,7 +23,7 @@ x <- 3
 eval(ddf_dx)
 ```
 
-# g. 
+# g.
 
 ```{r}
 # Find the slope of P(a) = 2(3a + 2)^4 - 5 at a = 1.2
